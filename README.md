@@ -12,7 +12,7 @@ A todo app that record your tasks . The app is built with ReactJs and Tailwindcs
 
 -  [License](#license)
 
--  [Screenshots](#screenshots)
+-  [Screenshots](#screenshot)
 
   
 
