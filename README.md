@@ -1,12 +1,64 @@
-# React + Vite
+#  Todo React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A todo app that record your tasks . The app is built with ReactJs and Tailwindcss.
 
-Currently, two official plugins are available:
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Table of Contents
 
-## Expanding the ESLint configuration
+-  [Technologies-Used](#technologies-used)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-  [Installation](#installation)
+
+-  [License](#license)
+
+-  [Screenshots](#screenshots)
+
+  
+
+##  Technologies-Used
+
+  
+
+- ReactJs
+
+- Tailwindcss
+
+  
+
+
+
+
+  
+
+##  Installation
+
+  
+
+Step-by-step instructions to set up the project locally:
+
+1. Clone the repository:
+
+        git clone https://github.com/Roshan-Metrix/todo_react.git
+
+  
+2. Navigate to the project directory:
+
+       cd todo_react
+
+3. Install dependencies
+
+       npm install  
+
+4. Run App
+
+       npm start dev
+
+  
+## License
+
+This project is licensed under the [MIT License](license.txt).
+
+## Screenshots
+
+[Screenshot](screenshot.png)

@@ -4,13 +4,11 @@ import { Form } from './components/Form.jsx'
 
 
 function App() {
-const  [task, setTask] = useState("");
   return (
   <>
- <div className="border-2 border-black w-130 p-4 h-auto">
+ <div className="border-2 border-black w-auto p-8 h-auto">
   <h1 className="text-center text-5xl font-semibold">Todo List app</h1>
-  <Form setTask={setTask} />
-
+  <Form />
  </div>
     </>
   )
