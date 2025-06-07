@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](license.txt).
 
 ## Screenshots
 
-[./screenshot.png]
+![Todo App Screenshot](./screenshot.png)
